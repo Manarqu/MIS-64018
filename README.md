@@ -1,2 +1,2 @@
-# MIS-64018
-Quantitative Management Modeling
+# Welcome
+All the files represents my analytics work implemented by R language.
